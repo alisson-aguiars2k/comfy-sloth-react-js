@@ -5,7 +5,7 @@
 
 ![](./src/assets/confy-sloth.jpg)
 
-### [Comfy Sloth](https://react-js-github-user-search.netlify.app/) 🔗
+### [Comfy Sloth](https://react-js-comfy-sloth.netlify.app/) 🔗
 
 ## Tecnologias que utilizei para o projeto ;  
 <div style="display: inline_block"><br>
