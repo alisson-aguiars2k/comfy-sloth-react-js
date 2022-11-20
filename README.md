@@ -1,4 +1,4 @@
-## Comfy Sloth !  👨‍🦱 👨‍🦰 👩
+## Comfy Sloth ! 🪑 🎁
 <br>
 
 ## E-commerce completo. 🥰 🚀 💻 📚
