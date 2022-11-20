@@ -38,7 +38,6 @@
 - Netlify ; 
 - React Icons ; 
 - Stripe ;
-- React Icons ;
 - React Router Dom dentre outros. 
 ## 🎲 Rodando o Back End (servidor)
 - npm install
