@@ -1,4 +1,4 @@
-## Comfy Sloth ! 🪑 🎁
+# Comfy Sloth ! 🪑 🎁
 <br>
 
 ## E-commerce completo. 🥰 🚀 💻 📚
@@ -28,6 +28,7 @@
 - Hooks ; useState, useEffect, useReducer e useContext ;
 - Axios para API com os padrões Restful ;
 - As rotas foram criadas com React Router Dom 6.
+- Resposivo
 ## A estilização ; 
 - Styled Components; 
 ## Dependencias ; 
