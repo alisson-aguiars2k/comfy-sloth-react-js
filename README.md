@@ -1,11 +1,16 @@
-## Comfy Sloth !  👨‍🦱 👨‍🦰 👩
+## Comfy Sloth !  🪑 🎁
 <br>
 
 ## E-commerce completo. 🥰 🚀 💻 📚
 
-![](./src/assets/confy-sloth.jpg)
-
 ### [Comfy Sloth](https://react-js-github-user-search.netlify.app/) 🔗
+
+![](./src/assets/confy-sloth.jpg)
+![](./src/assets/comfy-sloth-2.jpg)
+![](./src/assets/comfy-sloth-3.jpg)
+![](./src/assets/comfy-sloth-4.jpg)
+![](./src/assets/comfy-sloth-5.jpg)
+![](./src/assets/comfy-sloth-6.jpg)
 
 ## Tecnologias que utilizei para o projeto ;  
 <div style="display: inline_block"><br>
