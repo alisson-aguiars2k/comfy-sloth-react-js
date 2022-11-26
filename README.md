@@ -4,8 +4,6 @@
 
 ## E-commerce completo. 🥰 🚀 💻 📚
 
-![](./src/assets/confy-sloth.jpg)
-
 ### [Comfy Sloth](https://react-js-comfy-sloth.netlify.app/) 🔗
 
 
