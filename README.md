@@ -1,9 +1,13 @@
-## Comfy Sloth !  🪑 🎁
+# Comfy Sloth ! 🪑 🎁
+
 <br>
 
 ## E-commerce completo. 🥰 🚀 💻 📚
 
-### [Comfy Sloth](https://react-js-github-user-search.netlify.app/) 🔗
+![](./src/assets/confy-sloth.jpg)
+
+### [Comfy Sloth](https://react-js-comfy-sloth.netlify.app/) 🔗
+
 
 ![](./src/assets/confy-sloth.jpg)
 ![](./src/assets/comfy-sloth-2.jpg)
@@ -33,6 +37,7 @@
 - Hooks ; useState, useEffect, useReducer e useContext ;
 - Axios para API com os padrões Restful ;
 - As rotas foram criadas com React Router Dom 6.
+- Resposivo
 ## A estilização ; 
 - Styled Components; 
 ## Dependencias ; 
@@ -43,7 +48,6 @@
 - Netlify ; 
 - React Icons ; 
 - Stripe ;
-- React Icons ;
 - React Router Dom dentre outros. 
 ## 🎲 Rodando o Back End (servidor)
 - npm install
